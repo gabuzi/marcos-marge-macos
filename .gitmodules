@@ -1,0 +1,12 @@
+[submodule "MaRGE"]
+	path = MaRGE
+	url = https://github.com/mriLab-i3M/MaRGE
+[submodule "marcos_extras"]
+	path = marcos_extras
+	url = https://github.com/vnegnev/marcos_extras
+[submodule "marcos_server"]
+	path = marcos_server
+	url = https://github.com/vnegnev/marcos_server
+[submodule "marcos_client"]
+	path = marcos_client
+	url = https://github.com/vnegnev/marcos_client
