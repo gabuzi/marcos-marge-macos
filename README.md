@@ -2,6 +2,10 @@ A repository for setting up an installation of MaRGE on MacOS.
 https://github.com/josalggui/MaRGE
 Based on https://github.com/josalggui/MaRGE/tree/8496e873905cb16adf16a8cc1700d6a9f4ea666b
 
+See there for more instructions.
+
+See also https://github.com/marcos-mri/
+
 This was setup during the https://ezymri-nerdfest.sciencesconf.org/ ezyMRI NerdFest Portable MRI Hackathon.
 
 # installation
@@ -16,7 +20,7 @@ in the root directory of this repository.
 
 You must have: a red pitaya with a marcos-compatible image installed.
 These instructions do not cover this process.
-Check the marcos wiki.
+Check the marcos wiki here: https://github.com/vnegnev/marcos_extras/wiki.
 
 What we do need to know, is the IP address that this red pitaya is configured to use.
 
