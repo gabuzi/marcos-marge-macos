@@ -15,8 +15,9 @@ MaRGE also makes use of the `timeout` command which is not by default available 
 
 ## prerequisites
 You should be somewhat familiar with the MacOS terminal application.
+
 All commands in this document must be executed with your terminal working directory being
-in the root directory of this repository.
+in the root directory of this repository (see 'clone repository' section below).
 
 You must have: a red pitaya with a marcos-compatible image installed.
 These instructions do not cover this process.
@@ -29,6 +30,12 @@ make sure git is installed.
 type `git` in the terminal and make sure that there are no error messages.
 if it's not installed (git command not found) you have to install git.
 The web should have instructions on how to do that.
+
+### clone this repository
+
+`git clone --recurse-submodules https://github.com/gabuzi/marcos-marge-macos.git`
+This will clone all necessary code into a directory `marcos-marge-macos` in the current directory.
+Then `cd marcos-marge-macos` to change into this directory and run all following commands from within this folder.
 
 ### conda
 install conda: see https://anaconda.org. Choose either the full anaconda or miniconda.
